@@ -1,0 +1,55 @@
+sources:
+  - id: s3-event-notifications
+    service: s3
+    title: Amazon S3 Event Notifications
+    url: https://docs.aws.amazon.com/AmazonS3/latest/userguide/EventNotifications.html
+
+  - id: lambda-with-s3
+    service: lambda
+    title: Using AWS Lambda with Amazon S3
+    url: https://docs.aws.amazon.com/lambda/latest/dg/with-s3.html
+
+  - id: lambda-with-sqs
+    service: lambda
+    title: Using Lambda with Amazon SQS
+    url: https://docs.aws.amazon.com/lambda/latest/dg/with-sqs.html
+
+  - id: sqs-dead-letter-queues
+    service: sqs
+    title: Amazon SQS Dead-Letter Queues
+    url: https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html
+
+  - id: step-functions-error-handling
+    service: step-functions
+    title: Error Handling in Step Functions
+    url: https://docs.aws.amazon.com/step-functions/latest/dg/concepts-error-handling.html
+
+  - id: iam-roles
+    service: iam
+    title: IAM Roles
+    url: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html
+
+  - id: iam-policies
+    service: iam
+    title: Policies and Permissions in IAM
+    url: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html
+
+  - id: bedrock-knowledge-bases
+    service: bedrock
+    title: Retrieve Data and Generate Responses with Knowledge Bases
+    url: https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html
+
+  - id: bedrock-agents
+    service: bedrock
+    title: Automate Tasks with Amazon Bedrock Agents
+    url: https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html
+
+  - id: ecs-fargate-basics
+    service: ecs
+    title: Amazon ECS on AWS Fargate
+    url: https://docs.aws.amazon.com/AmazonECS/latest/userguide/what-is-fargate.html
+
+  - id: cloudwatch-logs
+    service: cloudwatch
+    title: What Is Amazon CloudWatch Logs?
+    url: https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html
