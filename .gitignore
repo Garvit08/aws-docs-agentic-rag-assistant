@@ -1,0 +1,7 @@
+.env
+*.tfstate*
+.terraform/
+__pycache__/
+ingestion/snapshots/
+*.faiss
+Claude.md
